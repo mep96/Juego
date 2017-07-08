@@ -1,0 +1,55 @@
+Min 24:00
+
+Min
+
+open devuelve entero
+Min (1:05:00)
+
+-----------------------------------
+int i;
+
+FILE *fp
+
+
+	fp= fopen (argumentos)
+	fprintf(fp,...)
+
+-----------------------------------
+(2 parte)
+
+FILE *fopen(const char *filename, const char *mode);
+
+filename y mode se pasan con "". (no con '')
+
+(33:50)
+
+if(EOF==feof(fp))
+------------------------------------------------
+(1:25:00)
+./migrep pepe archivo.bin
+	
+	-------------
+1)Abrir archivo
+2)Leer de una línea, user;
+	coincide
+	a)si coincide, imprimo la linea;
+3)Cierro el archivo
+
+	--------------
+
+grepear(FILE*file, const char*str)
+	
+{
+	if(f==NULL)return-1;
+	memset(buf,0,1024);
+	char buf[1024];
+	while(!feof(p))
+	{
+		fgets(buf,1024,f);
+	if(strstr(buf,srr)){
+	fputs(buf,strout);
+	}
+}
+
+tarea:
+contador que devuelva las ocurrencias encontradas y main
