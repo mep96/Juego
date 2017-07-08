@@ -1,0 +1,1 @@
+En este proyecto se hará un video juego del modo 2D que cumplan con las condiciones dadas en la clase de "Informatica 1 de la UTN".
